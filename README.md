@@ -65,5 +65,8 @@ Follow secure coding standards: Adhere to secure coding standards like those rec
 Proper error handling: Handle errors appropriately and avoid revealing sensitive information in error messages.
 Secrets management: Store API keys and other secrets securely using environment variables or secret management tools, avoiding hardcoded secrets. 
 9. Continuous API Discovery:
-Maintain API inventory: Implement continuous API discovery to identify and document all APIs in use, including shadow or zombie APIs, ensuring they are protected. 
+Maintain API inventory: Implement continuous API discovery to identify and document all APIs in use, including shadow or zombie APIs, ensuring they are protected.
+
+#CI/CD Pipeline
+A CI/CD pipeline is an automated workflow that streamlines the process of building, testing, and deploying software
 
